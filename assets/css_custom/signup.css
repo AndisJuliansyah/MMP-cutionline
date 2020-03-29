@@ -1,0 +1,70 @@
+.select2-container .select2-selection--single {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 37px;
+    user-select: none;
+    -webkit-user-select: none;
+    
+  }
+
+select{
+    appearance:none; 
+    -webkit-appearance:none; 
+    -moz-appearance:none
+  }
+
+h3{
+    color: #fff;
+    margin-top: 97px;
+    /*margin-left: 50px;*/
+    font-family: fontawesome;
+    text-shadow: 1px 2px 1px grey;
+}
+
+h6{
+    font-family: fontawesome;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+h4{
+  margin-top: 15px;  
+}
+
+p{
+    font-family: fontawesome;
+    color: #fff;
+}
+
+.left{
+      height: 100%;
+      background: #2575fc;
+      background: -webkit-linear-gradient(left, #6a11cb, #2575fc);
+      background: -o-linear-gradient(left, #6a11cb, #2575fc);
+      background: -moz-linear-gradient(left, #6a11cb, #2575fc);
+      background: linear-gradient(left, #6a11cb, #2575fc);
+}
+
+.right{
+      height: 100%;
+      background-color: #fff;
+}
+
+form{
+    margin-top: 50px;
+}
+
+a{
+    margin-left: 750px;
+}
+
+hr{
+    /*background-color: #fff;*/
+}
+
+.img{
+    /*margin-left: 50px;*/
+    margin-top: 50px;
+    box-shadow: 0px 2px 3px rgba(0,0,0,0.10);
+}
